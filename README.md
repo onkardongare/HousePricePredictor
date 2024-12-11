@@ -41,6 +41,5 @@ b. Finally run the flask app
 python app.py
 ```
 
-c. Now press we see the flask app is running on port 8080 and in a terminal
-link is present to see the app, so press ctrl + left click on a given link then you redirect to your default browser
+c. Now we can see the flask app is running on port 8080. In a terminal link is present to see the app, so press ctrl + left click on a given link then you redirect to your default browser
 
